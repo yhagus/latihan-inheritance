@@ -1,0 +1,13 @@
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.exe
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.deps.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.dev.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csprojAssemblyReference.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csproj.CoreCompileInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfoInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfo.cs
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.genruntimeconfig.cache
